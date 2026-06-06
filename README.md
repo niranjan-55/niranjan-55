@@ -20,6 +20,13 @@ Leading validation tooling for the American Express GCP migration:
 - 🕐 Replaced daily validation cycles with **hourly Airflow-orchestrated runs**, reducing latency from 1 day to 1 hour
 - 📝 Generated BigQuery + GCS reports, cutting manual reporting effort by **60%**
 
+**Data Engineering Associate @ Accenture (Amex Client)** · *Feb 2024 – Nov 2025*
+
+- 🔄 Developed a data validation tool automating comparison between on-premises and GCP BigQuery environments, increasing validation efficiency by **90%**
+- ⚙️ Automated creation and execution of BigQuery and Hive queries, integrating Pub/Sub for seamless on-prem and GCP workflows — saving **30 hours/month** of manual processing
+- 🏗️ Built a cross-environment table comparison application for schema validation and data integrity checks, improving ingestion efficiency by **80%**
+- ☁️ Leveraged Apache Airflow and GCP services to design scalable data pipelines and real-time ingestion workflows
+
 ---
 
 ## 🛠️ Tech Stack
